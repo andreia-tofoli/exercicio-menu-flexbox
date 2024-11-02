@@ -18,7 +18,8 @@ Aqui está uma prévia de como o menu fica na tela:
 
 ## Funcionalidades do Menu
 - Um menu de navegação com links para diferentes seções (Home, Sobre, Contato, Blog e Cadastre-se).
-- Estilização flexível que reorganiza o menu de acordo com o tamanho da tela.
+- Estilização flexível que reorganiza o menu de acordo com o tamanho da tela, adaptando-se bem para celulares, tablets e desktops.
+- Efeito de hover: ao passar o mouse sobre os links, eles alteram sua cor de fundo, proporcionando uma experiência visual mais dinâmica e interativa.
 
 ## Estrutura do Projeto
 - `index.html`: Estrutura HTML principal do menu.
